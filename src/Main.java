@@ -1,5 +1,5 @@
-import Controller.NumeroController;
-import Model.NumeroModel;
+import controller.NumeroController;
+import model.NumeroModel;
 import view.NumeroView;
 
 public class Main {

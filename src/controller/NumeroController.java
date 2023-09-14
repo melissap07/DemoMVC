@@ -1,6 +1,6 @@
-package Controller;
+package controller;
 import view.NumeroView;
-import Model.NumeroModel;
+import model.NumeroModel;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
